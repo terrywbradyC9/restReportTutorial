@@ -1,0 +1,12 @@
+# Header navigation
+# ====================
+main:
+  content:
+    - url: /docs/reference/
+      title: Learn
+
+    - url: /community/
+      title: Community
+
+    - url: http://try.kotlinlang.org
+      title: Try Online
