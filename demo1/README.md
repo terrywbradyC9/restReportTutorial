@@ -1,5 +1,5 @@
-[Main Menu](../README.md)    | [Next](../demo2/README.md)
------------------- | -----------------
+| [Main Menu](../README.md)    | [Next](../demo2/README.md)
+| ------------------ | -----------------
 
 ## Demo 1: Metadata Load and Update
 
