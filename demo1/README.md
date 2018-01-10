@@ -1,5 +1,5 @@
-| [Main Menu](../README.md)    | [Next](../demo2/README.md)
-| ------------------ | -----------------
+| [Main Menu](../README.md)    | [Next](../demo2/README.md) |
+| ------------------ | ----------------- |
 
 ## Demo 1: Metadata Load and Update
 
@@ -66,5 +66,5 @@ Open the REST Report Query Tool: https://demo.dspace.org/rest/static/reports/que
 ![Screenshot: All Query Results](qr5.png)
 
 
-[Main Menu](../README.md)    | [Next](../demo2/README.md)
------------------- | -----------------
+| [Main Menu](../README.md)    | [Next](../demo2/README.md) |
+| ------------------ | ----------------- |
