@@ -1,5 +1,5 @@
-[Main Menu](../README.md)    | [Next](../demo3/README.md)
------------------- | -----------------
+| [Main Menu](../README.md)    | [Next](../demo3/README.md)
+| ------------------ | -----------------
 
 ## Demo 2: Item Special Cases - Exploring Filters
 
