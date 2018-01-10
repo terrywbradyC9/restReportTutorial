@@ -1,3 +1,7 @@
+---
+title: Metadata Load and Update
+category: menu
+---
 
 ## Demo 1: Metadata Load and Update
 
