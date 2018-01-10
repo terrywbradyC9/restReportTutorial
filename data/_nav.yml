@@ -2,10 +2,10 @@
 # ====================
 main:
   content:
-    - url: /docs/reference/
+    - url: /demo1/README.md
       title: Learn
 
-    - url: /community/
+    - url: /demo2/README.md
       title: Community
 
     - url: http://try.kotlinlang.org
